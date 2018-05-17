@@ -1,0 +1,32 @@
+body,html{
+  height:100%;
+  margin:0;
+}
+
+header.startup {
+    background-image: url("../Bootstrap Website/Images/Galaxy.png");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+header.startup h1{
+  margin-top:600px;
+}
+
+.btn{
+  margin-top:10px;
+}
+.btn-primary {
+  background-color: rgb(82, 20, 82);
+  border-color: rgb(82, 20, 82) ;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.btn-primary:hover{
+  background-color: rgb(47, 141, 47);
+  border-color: rgb(47, 141, 47);
+}
